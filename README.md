@@ -11,9 +11,9 @@
 <!-- Quick Info -->
 ### 💁‍♀️ About Me
 
-- 🔍 Passionate about *software testing* and *clean code*  
+- 🔍 Aspiring SQA driven by testing and clean code
 - 🌱 Currently diving deep into *Laravel*  
-- 🎯 Interested in *web development* and *UI/UX Design*  
+- 🎯 Interested in *UI/UX Design*  
 - 📫 Reach me at: *maffiakhateg@gmail.com*
 
 ---
@@ -22,7 +22,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,mysql,csharp,dotnet,figma,react,nodejs,python,sqlite,photoshop,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,figma,python,photoshop" />
 </p>
 
 ---
