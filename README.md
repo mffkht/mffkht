@@ -1,27 +1,65 @@
-<h3 align="center">Passionate Aspiring Software Quality Assurance Tester</h3>
+# Hi there, I'm Oussama 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mffkht&label=Profile%20views&color=0e75b6&style=flat" alt="mffkht" /> </p>
+<div align="center">
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mffkht" alt="mffkht" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Programming Languages & Frameworks</strong></span>
+      </td>
+    </tr>
+  </thead>
+  <br /><br />
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
 
-- 🌱 I’m currently learning **Laravel**
+</table>
+</div>
 
-- 📫 How to reach me **maffiakhateg@gmail.com**
+<br /><br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mffkht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mffkht" height="30" width="40" /></a>
-<a href="https://instagram.com/mffkht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mffkht" height="30" width="40" /></a>
+## About me
+I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
+My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
+I always want to learn new things.
+
+<br /><br />
+
+## My Github stats
+
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&hide=python,tcl&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" /> -->
+</a>
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
+</a>
+
+<p>
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">check this</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br /><br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mffkht&show_icons=true&locale=en&layout=compact" alt="mffkht" /></p>
+## My Badges
+[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mffkht&show_icons=true&locale=en" alt="mffkht" /></p>
+<br /><br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mffkht&" alt="mffkht" /></p>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
+
+
+<h2><i>Follow me:</i></h2>
+<div  align="center">
 
