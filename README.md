@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Maffia Khate 🐼</h1>
-<h3 align="center">💡 Aspiring Software Quality Assurance Tester | 💻 Laravel Explorer | 🎨 UI Enthusiast</h3>
+<h3 align="center">💡 Aspiring Software Quality Assurance Tester | 💻 Laravel Explorer </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/692496/screenshots/10795441/girl.gif" width="280" alt="Animated Girl Dev GIF"/>
