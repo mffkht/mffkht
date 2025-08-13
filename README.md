@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Maffia Khate 🐼</h1>
-<h3 align="center">💡 Aspiring Software Quality Assurance Tester | 💻 Laravel Explorer </h3>
+<h3 align="center">💡BSIS-3 | Aspiring Software Quality Assurance Tester </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/692496/screenshots/10795441/girl.gif" width="280" alt="Animated Girl Dev GIF"/>
@@ -12,8 +12,7 @@
 ### 💁‍♀️ About Me
 
 - 🔍 Aspiring SQA driven by testing and clean code
-- 🌱 Currently diving deep into *Laravel*  
-- 🎯 Interested in *UI/UX Design*  
+- 🌱 Currently diving deep into *Laravel*   
 - 📫 Reach me at: *maffiakhateg@gmail.com*
 
 ---
