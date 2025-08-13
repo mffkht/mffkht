@@ -22,7 +22,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,figma,python,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,figma,python" />
 </p>
 
 ---
