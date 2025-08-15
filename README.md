@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Maffia Khate 🐼</h1>
-<h3 align="center">💡BSIS-3 | Aspiring Software Quality Assurance Tester </h3>
+<h1 align="center">Hi, I'm Maffia Khate! </h1>
+<h3 align="center"> Aspiring Business Analyst </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/692496/screenshots/10795441/girl.gif" width="280" alt="Animated Girl Dev GIF"/>
@@ -11,9 +11,10 @@
 <!-- Quick Info -->
 ### 💁‍♀️ About Me
 
-- 🔍 Aspiring SQA driven by testing and clean code
-- 🌱 Currently diving deep into *Laravel*   
-- 📫 Reach me at: *maffiakhateg@gmail.com*
+-  Aspiring Business Analyst
+-  Currently a student, continuously learning and improving my skills  
+-  Willing to learn, adapt, and grow in the tech industry  
+-  Reach me at: maffiakhateg@gmail.com
 
 ---
 
@@ -65,4 +66,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mffkht&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
-
