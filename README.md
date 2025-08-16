@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Maffia Khate! </h1>
-<h3 align="center"> Aspiring Business Analyst </h3>
+<h3 align="center"> BSIS 3 | Aspiring Business Analyst </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/692496/screenshots/10795441/girl.gif" width="280" alt="Animated Girl Dev GIF"/>
@@ -9,17 +9,18 @@
 ---
 
 <!-- Quick Info -->
-### 💁‍♀️ About Me
+###  About Me
 
--  Aspiring Business Analyst
--  Currently a student, continuously learning and improving my skills  
--  Willing to learn, adapt, and grow in the tech industry  
+-  Currently taking Bachelor of Science in Information Systems
+-  Aspiring to become a Business Analyst, currently developing my skills in business processes, problem-solving, and data analysis
+-  Continuously learning how to bridge the gap between business needs and technology solutions 
+-  Open to new opportunities that will help me gain hands-on experience and grow in the field  
 -  Reach me at: maffiakhateg@gmail.com
 
 ---
 
 <!-- Tech Stack -->
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,php,laravel,figma,python" />
@@ -28,7 +29,7 @@
 ---
 
 <!-- GitHub Stats -->
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mffkht&show_icons=true&theme=calm" alt="GitHub Stats" width="47%" />
@@ -40,7 +41,7 @@
 ---
 
 <!-- Trophies -->
-### 🏆 GitHub Achievements
+### GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mffkht&theme=flat&column=6&margin-w=10&margin-h=10" />
@@ -49,7 +50,7 @@
 ---
 
 <!-- Socials -->
-### 📱 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://fb.com/mffkht" target="_blank">
